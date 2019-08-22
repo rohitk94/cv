@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Back-End development (Node JS)",
+        "percent": 90
+    },
+    {
+        "title": "Native App Development (React Native)",
+        "percent": 80
+    },
+    {
+        "title": "Programming",
+        "percent": 80
+    },
+    {
+        "title": "Web Designing",
+        "percent": 70
+    },
+    {
+        "title": "Web Development",
+        "percent": 80
+    }
+]
