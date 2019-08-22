@@ -1,14 +1,14 @@
 {
-    "avatar": "radhey.jpg",
-    "name": "Radhey Shyam",
+    "avatar": "rohit.jpg",
+    "name": "Rohit Kumar",
     "work": "Software Engineer",
-    "address": "#782/B Small Flats, Dhanas, Chandigarh",
-    "email": "radheyg11@gmail.com",
-    "birthday": " 25 April, 1994",
+    "address": "#146, village kansal, Chandigarh",
+    "email": "mk0119263@live.com",
+    "birthday": " 13 Aug, 1994",
     "mobiles": [
         {
             "country": "in",
-            "number": "+91-8559018263"
+            "number": "+91-9646714334"
         }
     ]
 }
