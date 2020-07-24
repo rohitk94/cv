@@ -38,5 +38,36 @@
 		"link": "",
 		"role": "Full Stack Developer",
 		"description": "It is an application from where user can post their work requirment like Construction/Developement andy kind of works, other user can bid on the post and apply for the job, admin can manage the bids and select the appropriate bid suitable for the work, super admin can only check the users and take strict action if anything goes wrong."
+	},
+	{
+		"title": "Homeatry Application",
+		"skills": "Node JS/React Native/MongoDB/AWS",
+		"platform": "AWS",
+		"duration": "Apr 2019 - June 2019",
+		"running": true,
+		"link": "https://play.google.com/store/apps/details?id=codeshode.homeatry.com&hl=en_IN",
+		"role": "Full Stack Developer",
+		"description": "Home based cooked food ordering application,I worked as Full stack Developer here."
+	},
+	{
+		"title": "Teamex",
+		"skills": "Node JS/Reat JS/MongoDB/AWS",
+		"platform": "AWS",
+		"duration": "Jan 2019 - Feb 2020",
+		"running": true,
+		"link": "https://itecomm.netlify.app/",
+		"role": "Full Stack Developer",
+		"description": "Ecommerce web application, I have worked as Full stack Developer."
+	},
+	{
+		"title": "365by7 Application",
+		"skills": "Node JS/React Native/MongoDB/AWS",
+		"platform": "AWS",
+		"duration": "Mar 2020 - May 2020",
+		"running": true,
+		"link": "https://play.google.com/store/apps/details?id=com.threesixtyfivebyseven&hl=en_IN",
+		"role": "React Native Developer",
+		"description": "Ecommerce based Mobile application with payment gateway dynamic home page content."
 	}
+	
 ]
