@@ -5,18 +5,14 @@
     },
     {
         "title": "Native App Development (React Native)",
-        "percent": 80
-    },
-    {
-        "title": "Programming",
-        "percent": 80
+        "percent": 85
     },
     {
         "title": "Web Designing",
-        "percent": 70
+        "percent": 88
     },
     {
-        "title": "Web Development",
-        "percent": 80
+        "title": "Web Development(React JS, Angular JS)",
+        "percent": 90
     }
 ]
