@@ -1,15 +1,15 @@
 [
     {
         "role": "Associate Software Engineer",
-        "skills": "Node JS/Angular",
+        "skills": "MEAN/MERN STACK",
         "company": "CODEBREW, Chandigarh",
         "duration": "July 2017 - Jan 2020",
-        "current": true,
+        "current": false,
         "description": "My designation is a Senior Software Engineer. I work as a MEAN/MERN stack developer for Mobile/Web application."
     },
     {
         "role": "Internship",
-        "skills": "Node JS, Angular JS",
+        "skills": "MEAN/MERN",
         "company": "CODEBREW, Chandigarh",
         "duration": "January 2017 - June 2017",
         "current": false,
