@@ -39,6 +39,7 @@
 		"role": "Full Stack Developer",
 		"description": "It is an application from where user can post their work requirment like Construction/Developement andy kind of works, other user can bid on the post and apply for the job, admin can manage the bids and select the appropriate bid suitable for the work, super admin can only check the users and take strict action if anything goes wrong."
 	},
+	
 	{
 		"title": "Homeatry Application",
 		"skills": "Node JS/React Native/MongoDB/AWS",
@@ -50,6 +51,16 @@
 		"description": "Home based cooked food ordering application,I worked as Full stack Developer here."
 	},
 	{
+		"title": "Coffee Adda",
+		"skills": "React Js",
+		"platform": "AWS",
+		"duration": "Apr 2020 - May 2020",
+		"running": true,
+		"link": "https://kids.callanyone.io/",
+		"role": "Frontend Developer",
+		"description": "Video Conferncing Application for the Parents and Kids, Work as a React Js Developer in the project."
+	},
+	{
 		"title": "Teamex",
 		"skills": "Node JS/React JS/MongoDB/AWS",
 		"platform": "AWS",
@@ -59,6 +70,7 @@
 		"role": "Full Stack Developer",
 		"description": "Ecommerce web application, I have worked as Full stack Developer."
 	},
+	
 	{
 		"title": "Coffee Adda",
 		"skills": "React Js",
@@ -67,7 +79,7 @@
 		"running": true,
 		"link": "https://coffee.mccltd.info/web",
 		"role": "Frontend Developer",
-		"description": "Dating Application similar to Tinder, Work as a React Native Developer in the project."
+		"description": "Dating Application similar to Tinder, Work as a React JS Developer in the project."
 	},
 	{
 		"title": "Sam Corporate",
@@ -77,7 +89,7 @@
 		"running": true,
 		"link": "http://sam-corporate.netlify.app/",
 		"role": "Frontend Developer",
-		"description": "Corporate Web Site for the Client company, Work as a React Native Developer in the project."
+		"description": "Corporate Web Site for the Client company, Work as a React JS Developer in the project."
 	},
 	{
 		"title": "365by7 Application",
