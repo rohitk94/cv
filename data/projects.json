@@ -51,13 +51,33 @@
 	},
 	{
 		"title": "Teamex",
-		"skills": "Node JS/Reat JS/MongoDB/AWS",
+		"skills": "Node JS/React JS/MongoDB/AWS",
 		"platform": "AWS",
 		"duration": "Jan 2019 - Feb 2020",
 		"running": true,
 		"link": "https://itecomm.netlify.app/",
 		"role": "Full Stack Developer",
 		"description": "Ecommerce web application, I have worked as Full stack Developer."
+	},
+	{
+		"title": "Coffee Adda",
+		"skills": "React Js",
+		"platform": "AWS",
+		"duration": "Mar 2019 - Apr 2019",
+		"running": true,
+		"link": "https://coffee.mccltd.info/web",
+		"role": "Frontend Developer",
+		"description": "Dating Application similar to Tinder, Work as a React Native Developer in the project."
+	},
+	{
+		"title": "Sam Corporate",
+		"skills": "React Js",
+		"platform": "AWS",
+		"duration": "Feb 2020 - Apr 2020",
+		"running": true,
+		"link": "http://sam-corporate.netlify.app/",
+		"role": "Frontend Developer",
+		"description": "Corporate Web Site for the Client company, Work as a React Native Developer in the project."
 	},
 	{
 		"title": "365by7 Application",
